@@ -1,5 +1,5 @@
 {
-  "react": [
+  "questions": [
     {
       "question": "Which is the most popular JavaScript framework?",
       "options": ["Angular", "React", "Svelte", "Vue"],
@@ -136,113 +136,122 @@
       "points": 20
     }
   ],
-  "javascript": [
+  "faisal": [
     {
-      "question": "Which of the following is a JavaScript data type?",
-      "options": ["String", "Number", "Boolean", "All of the above"],
-      "correctOption": 3,
-      "points": 10
+      "question": "من قلب فيصل؟",
+      "options": ["ساره", "واحد", "واحد ثاني", "آخرون"],
+      "correctOption": 0,
+      "points": 20
     },
     {
-      "question": "What keyword is used to declare a variable in JavaScript?",
-      "options": ["let", "var", "const", "All of the above"],
+      "question": "من حبيب ساره؟",
+      "options": ["آخرون", "وحده", "وحده ثانيه", "فيصل"],
       "correctOption": 3,
-      "points": 10
+      "points": 20
     },
     {
-      "question": "Which symbol is used for single-line comments in JavaScript?",
-      "options": ["/* */", "//", "<!-- -->", "#"],
+      "question": "مين طعمونتي؟",
+      "options": ["واحد", "وحده", "ساره", "فيصل"],
+      "correctOption": 2,
+      "points": 20
+    }
+  ],
+  "el3yal": [
+    {
+      "question": "نظارات نايف بالمتوسطة وش كان لونه ؟",
+      "options": ["احمر", "ازرق", "اسود", "وردي"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "What will be the output of '2' + 3 in JavaScript?",
-      "options": ["23", "5", "undefined", "error"],
+      "question": "من هو|هي حامي الممالك المنغوليه؟",
+      "options": ["نايف", "سلطان", "حمو", "سارو"],
       "correctOption": 0,
       "points": 10
     },
     {
-      "question": "What does the '===' operator do in JavaScript?",
-      "options": [
-        "Assigns a value",
-        "Compares both value and type",
-        "Compares only the value",
-        "None of the above"
-      ],
-      "correctOption": 1,
+      "question": "من القائل: \"زخات الحزمة\"",
+      "options": ["حمو", "فيصل", "ابو خلي", "نايف"],
+      "correctOption": 2,
       "points": 10
     },
     {
-      "question": "Which function is used to convert a string to an integer in JavaScript?",
-      "options": [
-        "parseInt()",
-        "toInteger()",
-        "parseInteger()",
-        "convertToInt()"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "What is the purpose of 'use strict' in JavaScript?",
-      "options": [
-        "It enables strict mode",
-        "It disables strict mode",
-        "It adds security features",
-        "It allows debugging"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Which array method can be used to iterate over each element in JavaScript?",
-      "options": ["map()", "forEach()", "filter()", "All of the above"],
+      "question": "من هو|هي  مساعد|ة حامي الممالك المنغوليه؟",
+      "options": ["نايف", "سلطان", "حمو", "سارو"],
       "correctOption": 3,
       "points": 10
     },
     {
-      "question": "What will be the output of typeof null in JavaScript?",
-      "options": ["null", "undefined", "object", "boolean"],
+      "question": "ذهبت الى الصيدلية مع سلطان الجربوع  وش راح يشتري ؟",
+      "options": ["شامبو", "مشط شنب", "موس حلاقه", "افوجين"],
+      "correctOption": 3,
+      "points": 10
+    },
+
+    {
+      "question": "من القائل: \"تسمع زيييييياد\"",
+      "options": ["سلطان", "حمو", "نايف", "ليلي"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "من هو|هي دكتور|ة السيرفر؟",
+      "options": ["سلطان", "سارو", "فيصل", "ديما"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "من هو|هي النكدي|ـه؟",
+      "options": ["نايف", "فيصل", "زياد", "ابو خلي"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "من اكثر شخص يرفع ضغط ديما؟",
+      "options": ["سلطان", "فيصل", "حمو", "نايف"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "من هو المفكّر الحقيقي؟ - صعب -",
+      "options": ["سلطان", "فيصل", "طلال", "نايف"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "كم طول زياد الحقيقي ؟ ",
+      "options": ["170", "165", "103", "162"],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "What does NaN stand for in JavaScript?",
-      "options": [
-        "Not a Number",
-        "Not a Name",
-        "Not available Now",
-        "No actual Number"
-      ],
-      "correctOption": 0,
+      "question": "من هو الشخص الذي يمتلك اقذر كلام في السيرفر؟",
+      "options": ["ابو خلي", "سلطان", "نايف", "حمو"],
+      "correctOption": 3,
       "points": 10
     },
     {
-      "question": "Which of the following is a JavaScript framework?",
-      "options": ["React", "Laravel", "Django", "Rails"],
-      "correctOption": 0,
+      "question": "من القائل: \"إكل, وِحده, نجّافه\"",
+      "options": ["سلطان", "ابو خلي", "نايف", "ديما"],
+      "correctOption": 1,
       "points": 10
     },
     {
-      "question": "How do you write a function in JavaScript?",
-      "options": [
-        "function myFunction() {}",
-        "def myFunction() {}",
-        "fun myFunction() {}",
-        "Function myFunction() {}"
-      ],
-      "correctOption": 0,
+      "question": "معكوف الظهر عبد للمهبل ثقيل الدم يصنف من بين 5 اغبياء بالعالم ؟",
+      "options": ["سلطان", "حمو", "نايف", "ابو خلي"],
+      "correctOption": 3,
       "points": 10
     },
     {
-      "question": "What does JSON stand for?",
-      "options": [
-        "JavaScript Object Node",
-        "Java Source Object Notation",
-        "JavaScript Object Notation",
-        "Java Syntax Object Notation"
-      ],
-      "correctOption": 2,
+      "question": "ابو جربوع تكفى تعال اني ديسك:",
+      "options": ["حمو", "زياد", "نايف", "ابو خلي"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "افضل ايم بالالعاب بالمجرّه ؟ 🧢",
+      "options": ["سارو", "سلطان", "نايف", "فيصل"],
+      "correctOption": 0,
       "points": 10
     }
   ]
